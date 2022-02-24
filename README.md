@@ -5,6 +5,13 @@ Este sitio se encuentra disponible para la descarga de datos para los ejercicios
 
 ### Links de descarga
 
+[Datos para Práctica 1](https://www.mediafire.com/file/6vk8jec6s2d1dv4/DATOS_P1.rar/file)
+
+[Datos para Práctica 2](https://www.mediafire.com/file/p3zoz255gdcekrt/DATOS_P2.rar/file)
+
+[Datos para Práctica 3](https://www.mediafire.com/file/5ufm1bhr84r59gu/DATOS_P3.rar/file)
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
