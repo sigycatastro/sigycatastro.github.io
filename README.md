@@ -1,8 +1,7 @@
 ## Introducción a los Sistemas de Información Geográfica (SIG) aplicados al Catastro
 
-You can use the [editor on GitHub](https://github.com/sigycatastro/sigycatastro.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Este sitio se encuentra disponible para la descarga de datos para los ejercicios propuestos en las prácticas, y para consultar las últimas actualizaciones al libro.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
