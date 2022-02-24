@@ -1,5 +1,4 @@
-### Introducción a los Sistemas de Información Geográfica (SIG) aplicados al Catastro
-# Universidad Católica de Santa Fe
+## Universidad Católica de Santa Fe
 
 Este sitio se encuentra disponible para la descarga de datos para los ejercicios propuestos en las prácticas, y para consultar las últimas actualizaciones al libro.
 
